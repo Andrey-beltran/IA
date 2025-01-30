@@ -37,11 +37,11 @@
         <h2>Servicios</h2>
         <div class="servicios">
             <div class="servicio">
-                <img src="plomero.jpg" alt="Plomero">
+                <img src="plomeria.jpg" alt="Plomero">
                 <h3>Plomería</h3>
             </div>
             <div class="servicio">
-                <img src="jardinero.jpg" alt="Jardinero">
+                <img src="jardineria.jpg" alt="Jardinero">
                 <h3>Jardinería</h3>
             </div>
             <div class="servicio">
