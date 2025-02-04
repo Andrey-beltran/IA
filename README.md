@@ -65,6 +65,12 @@
     <footer>
         <p>&copy; 2025 Local Services AJ. Todos los derechos reservados.</p>
     </footer>
+
+    
+ <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2025/02/01/02/20250201020550-GAIBTZ4B.js"></script>
+
+    
 </body>
 </html>
 
